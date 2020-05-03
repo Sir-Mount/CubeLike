@@ -1,0 +1,1 @@
+draw_sprite_ext(Splayer, 0, x, y, xscale, yscale, 0, image_blend, image_alpha);

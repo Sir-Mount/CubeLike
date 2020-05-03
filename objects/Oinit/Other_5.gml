@@ -1,0 +1,2 @@
+part_emitter_destroy_all(particleSystem);
+part_emitter_destroy_all(BGparticles);
