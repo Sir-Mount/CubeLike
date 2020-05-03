@@ -48,7 +48,7 @@ if(transition){
 	draw_set_alpha(1);
 }
 
-if(!instance_exists(Oplayer)){
+if(!instance_exists(Oplayer) && room != mainMenu){
 	if(gameOverAlpha < 0.70) gameOverAlpha += 0.01;
 	
 	draw_set_alpha(gameOverAlpha);
@@ -60,9 +60,7 @@ if(!instance_exists(Oplayer)){
 	draw_set_halign(fa_center);
 	draw_set_font(Ftext);
 	
-	if(room != mainMenu){
-		draw_text(room_width * 0.5, room_height/3, "PRESS -R- TO RESTART");
-	}
+	draw_text(room_width * 0.5, room_height/3, "PRESS -R- TO RESTART");
 	
 	draw_set_alpha(1);
 }
