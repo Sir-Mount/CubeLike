@@ -19,7 +19,7 @@ if (canJump > 0 && key_up){
 	xscale = image_xscale * 0.5;
 	yscale = image_yscale * 1.3;
 	
-	ScreenShake(2, 15);
+	ScreenShake(2, 5);
 	//var jumpSN = audio_play_sound(SNjump, 100, false);
 	//audio_sound_pitch(jumpSN, random_range(0.75, 1.35));
 	vsp = -jumpspeed;
@@ -73,7 +73,8 @@ if (place_meeting(x, y + 1, Owall)){
 		xscale = image_xscale * 1.3;
 		yscale = image_yscale * 0.5;
 		
-		ScreenShake(2, 5);
+		
+		ScreenShake(2, 15);
 		//var landSN = audio_play_sound(SNjump, 100, false);
 		//audio_sound_pitch(landSN, random_range(0.6, 1));
 		//audio_sound_gain(landSN, 0.2, 0);

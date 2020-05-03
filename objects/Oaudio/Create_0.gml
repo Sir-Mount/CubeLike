@@ -1,4 +1,9 @@
-//audio_group_load(BG);
-//audio_group_load(SFX);
+music_playing = SNbg;
+//music = [SNbg]; used for multiple background tracks
 
-audio_play_sound(SNbg, 100, true);
+//musicVol = 1; controls the volume of the background tracks
+//SfxVol = 1; controls the volume of the SFX
+
+control = false;
+//musicTarget = 0; used for fading to new bacground track
+sfxLoaded = false; // can only play sfx when loaded?
