@@ -6,3 +6,5 @@ if(audio_group_is_loaded(BG) && !audio_is_playing(music_playing)){
 if(audio_group_is_loaded(SFX)){
 	sfxLoaded = true;
 }
+
+
