@@ -1,1 +1,0 @@
-audioObject = noone;
