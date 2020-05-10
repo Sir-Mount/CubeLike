@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "236986dc-d81a-4125-84d1-abb98b57be29",
+            "Value": {
+                "id": "5d50d9c6-8d83-4b97-95ce-d7e29d1713c6",
+                "resourcePath": "fonts\\Ftext_Smol\\Ftext_Smol.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "23b8158d-c878-4b13-b3fd-2c7128675102",
             "Value": {
                 "id": "e63c684c-9fde-4769-a5c2-cf604ee668ea",

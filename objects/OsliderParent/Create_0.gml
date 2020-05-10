@@ -3,3 +3,4 @@ value = maxValue;
 
 selected = false;
 
+name = "";

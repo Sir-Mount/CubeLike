@@ -8,8 +8,7 @@
         "d37bea67-c48c-45fd-a630-d74e2dc26a0e",
         "ce9d695f-7f7b-44e8-a6ca-b1eef2b5d5dd",
         "786ed9a6-bc1c-4a57-a326-5afdea3152c9",
-        "c74e7a07-8a7d-43b3-bb94-660fb4e4bcb2",
-        "169b18bf-f8a9-4759-8dbb-07904b2e5a51"
+        "c74e7a07-8a7d-43b3-bb94-660fb4e4bcb2"
     ],
     "filterType": "GMObject",
     "folderName": "Init",
