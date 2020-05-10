@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "169b18bf-f8a9-4759-8dbb-07904b2e5a51",
+            "Value": {
+                "id": "92d8b7dc-95b3-4a5f-8c67-232e34e741fc",
+                "resourcePath": "views\\169b18bf-f8a9-4759-8dbb-07904b2e5a51.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "18fee280-a0c9-4901-989e-34c99e55b004",
             "Value": {
                 "id": "efcb8105-b03f-4890-8913-663dc2f702ed",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "2bad509f-9b9f-4a63-8294-03a86263923b",
+            "Value": {
+                "id": "1d6c4878-a73b-4793-9771-a5ebe64f666e",
+                "resourcePath": "sprites\\SsliderBar\\SsliderBar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2c957e89-fac3-4598-a04f-795256c45d14",
             "Value": {
                 "id": "d9753cae-84cc-4bbb-b6d4-9ed5b26d285c",
@@ -171,6 +187,14 @@
             "Value": {
                 "id": "eb24c70a-cb88-456e-9d70-3b725d3a6e7a",
                 "resourcePath": "objects\\Oshell\\Oshell.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "34876b16-67a0-4aab-8169-eabb761849b5",
+            "Value": {
+                "id": "7cf4b408-943d-4e78-8884-ec1071780080",
+                "resourcePath": "objects\\OsliderMusic\\OsliderMusic.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -343,14 +367,6 @@
             }
         },
         {
-            "Key": "51de1864-a42c-43dd-8fd2-b81f39e3258a",
-            "Value": {
-                "id": "c573dba9-0be7-45d6-9665-65eb970d10fb",
-                "resourcePath": "objects\\Ovolume\\Ovolume.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "55674faf-2a84-4587-afe1-57d8399d12d9",
             "Value": {
                 "id": "39a7f088-9b3f-4ca6-a53e-b01049aeeab2",
@@ -511,6 +527,14 @@
             }
         },
         {
+            "Key": "8b1097fe-5b41-4d27-9fb3-3b7ed1c5a4c3",
+            "Value": {
+                "id": "1bffd61a-99c5-4ab3-b05c-0a42c86f377b",
+                "resourcePath": "objects\\OsliderSFX\\OsliderSFX.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8c6e630d-1917-4d7d-8e94-8f1790a40204",
             "Value": {
                 "id": "0352296b-3d32-40e9-905d-c3f34b2fe63a",
@@ -618,7 +642,7 @@
             "Key": "a6b6cd27-f36d-4c78-b054-c6f95fdc6d57",
             "Value": {
                 "id": "ea0c8793-ec6c-4675-befa-80afdd02cbd7",
-                "resourcePath": "sprites\\Svolume\\Svolume.yy",
+                "resourcePath": "sprites\\SsliderButton\\SsliderButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -940,6 +964,14 @@
                 "id": "2d0ca8d1-6b1f-4064-bd1a-408e88792684",
                 "resourcePath": "sounds\\SNbg\\SNbg.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f6808574-f286-450c-8534-7cf3b7891563",
+            "Value": {
+                "id": "6eccc605-611e-4176-a6d0-c3e831d3d0df",
+                "resourcePath": "objects\\OsliderParent\\OsliderParent.yy",
+                "resourceType": "GMObject"
             }
         },
         {
