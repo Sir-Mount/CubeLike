@@ -1,3 +1,3 @@
 if(instance_exists(Oaudio)){
-	Oaudio.SfxVol = value;
+	global.SfxVol = value;
 }
