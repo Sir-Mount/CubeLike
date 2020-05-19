@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "2e004053-3e87-412e-b2cb-303c3ac765f8",
+            "Value": {
+                "id": "d5547a4c-642a-44cf-886f-4090eb394703",
+                "resourcePath": "sounds\\SNbell\\SNbell.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "348622ba-5c68-4695-851a-34ae3b4daba7",
             "Value": {
                 "id": "eb24c70a-cb88-456e-9d70-3b725d3a6e7a",
@@ -295,11 +303,27 @@
             }
         },
         {
+            "Key": "46552dc8-882b-40db-9391-aa0062416207",
+            "Value": {
+                "id": "a28a6a01-b329-4446-a4b8-cabc394f9173",
+                "resourcePath": "views\\46552dc8-882b-40db-9391-aa0062416207.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "467d3c9a-c07d-48f8-b8ca-fb6f33100454",
             "Value": {
                 "id": "aca9998a-089a-43bb-b244-7ebe6de43921",
                 "resourcePath": "sprites\\Svignet\\Svignet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "496d027e-8474-42a5-a08b-5f9aa78a0adb",
+            "Value": {
+                "id": "9438950c-f326-4752-b4df-60138ee4e0b2",
+                "resourcePath": "scripts\\AudioPlaySfx\\AudioPlaySfx.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1029,6 +1053,7 @@
         "d95bfae5-e216-47ca-9d90-64815288733a",
         "a8aeb84c-79bf-4b9a-a2da-6407cd555fda",
         "ba611e05-4ce3-4e82-8c7f-51fefffc0d8e",
+        "496d027e-8474-42a5-a08b-5f9aa78a0adb",
         "a8c10980-cf55-4065-a792-ce440669c434",
         "ebedf20a-7687-41af-b883-ad8135affcaa"
     ],

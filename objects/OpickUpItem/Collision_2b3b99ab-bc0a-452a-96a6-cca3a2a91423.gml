@@ -29,6 +29,8 @@ switch(sprite_index){
 ScreenShake(4, 25);
 ScreenFlash(0.25, 0.01, c_purple);
 
+AudioPlaySfx(SNbell, 100, 1, 0.15);
+
 for(i = 0; i < 7; i++){
 	part_particles_create(Oinit.particleSystem,
 	random_range(x - (sprite_width/2) - 15, x + (sprite_width/2) + 15), 
