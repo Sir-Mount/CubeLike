@@ -52,7 +52,7 @@ switch(nextLocation){
 ScreenShake(4, 20);
 
 with(Ocam){
-	targetRoom = ProbChance(Level, 90, Item, 10);
+	targetRoom = ProbChance(Level, 50, Item, 50);
 	
 	next_room = false;
 	transition = true;

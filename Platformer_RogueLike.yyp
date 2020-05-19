@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "825c1c3f-4ae0-494c-8c82-4b732430020a",
+            "Value": {
+                "id": "e1802128-b4d6-42c4-b543-103b524280f2",
+                "resourcePath": "sounds\\SNshoot\\SNshoot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "83fa3b29-bd75-4e61-8771-f5e3854c467a",
             "Value": {
                 "id": "dbeede9e-92b0-4d52-88a9-59e44c20ea1f",
@@ -652,6 +660,14 @@
                 "id": "cdcb0b2d-f6b6-47fa-9d2c-a14f0aeaa355",
                 "resourcePath": "sprites\\SenemyFlyingDead\\SenemyFlyingDead.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a34ab5ff-8dc0-4dcb-badb-249efc14912e",
+            "Value": {
+                "id": "ea26f4e0-6949-4009-955a-bbb49b709c56",
+                "resourcePath": "sounds\\SNshootEnemy\\SNshootEnemy.yy",
+                "resourceType": "GMSound"
             }
         },
         {
