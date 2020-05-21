@@ -8,7 +8,7 @@ with(instance_create_layer(x, y, "Bullets", Obullet)){
 	image_angle = direction;
 }
 
-AudioPlaySfx(SNshoot, 50, 0.75, 0.35);
+AudioPlaySfx(SNshoot, 50, 0.9, 0.35);
 
 with(instance_create_layer(x, y, "Bullets", Obullet)){
 	speed = 15;
@@ -16,7 +16,7 @@ with(instance_create_layer(x, y, "Bullets", Obullet)){
 	image_angle = direction;
 }
 
-AudioPlaySfx(SNshoot, 25, 0.75, 0.35);
+AudioPlaySfx(SNshoot, 25, 0.9, 0.35);
 
 with(instance_create_layer(x, y, "Bullets", Obullet)){
 	speed = 15;
@@ -24,7 +24,7 @@ with(instance_create_layer(x, y, "Bullets", Obullet)){
 	image_angle = direction;
 }
 
-AudioPlaySfx(SNshoot, 25, 0.75, 0.35);
+AudioPlaySfx(SNshoot, 25, 0.9, 0.35);
 
 for(i = 0; i< 3; i++){
 	with(instance_create_layer(x, y, "Shells", Oshell)){

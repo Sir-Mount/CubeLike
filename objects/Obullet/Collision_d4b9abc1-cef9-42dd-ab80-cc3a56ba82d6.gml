@@ -1,3 +1,5 @@
+
+AudioPlaySfx(SNhitCharacter, 60, 1, 0.3);
 ScreenShake(5, 20);
 
 for(i = 0; i < 5; i++){

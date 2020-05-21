@@ -12,4 +12,4 @@ with(instance_create_layer(x, y, "Shells", Oshell)){
 	vsp -= lengthdir_y(6 - other.shooter.vsp, other.image_angle);
 }
 
-AudioPlaySfx(SNshoot, 50, 0.75, 0.3);
+AudioPlaySfx(SNshoot, 50, 0.9, 0.3);
