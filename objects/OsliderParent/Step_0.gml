@@ -4,7 +4,11 @@ if(mouse_check_button(mb_left)){
 	}
 }
 
-if(!mouse_check_button(mb_left)){
+if(!mouse_check_button(mb_left) && selected == true){
+	with(Oaudio){
+		var SN = audio_play_sound(SNselect, 100, false);
+		audio_sound_gain(SN, global.SfxVol * 2, 0);
+	}
 	selected = false;
 }
 

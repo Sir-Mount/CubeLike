@@ -1,6 +1,12 @@
 ///@description PlayerDeath()
 
 
+with(Oaudio){
+	var SN = audio_play_sound(SNgameOver, 100, false);
+	audio_sound_gain(SN, global.SfxVol, 0);
+	audio_sound_pitch(SN, 0.75);
+}
+
 ScreenShake(6, 30);
 ScreenFlash(0.5, 0.03, c_white);
 

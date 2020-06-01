@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "105a52ab-33ff-47ac-9841-fb1a040c1ca7",
+            "Value": {
+                "id": "b0097159-e0e9-4431-8561-c79a578fa283",
+                "resourcePath": "sounds\\SNgameStart\\SNgameStart.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "169b18bf-f8a9-4759-8dbb-07904b2e5a51",
             "Value": {
                 "id": "92d8b7dc-95b3-4a5f-8c67-232e34e741fc",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "3003217f-70d8-41a4-897e-3bf070efe056",
+            "Value": {
+                "id": "e1300f80-9690-464d-879d-6a1fc8d5d795",
+                "resourcePath": "sounds\\SNselect\\SNselect.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "348622ba-5c68-4695-851a-34ae3b4daba7",
             "Value": {
                 "id": "eb24c70a-cb88-456e-9d70-3b725d3a6e7a",
@@ -308,6 +324,14 @@
                 "id": "ff3f012e-0cee-4526-b255-b648a9b3e158",
                 "resourcePath": "sprites\\SenemyBullet\\SenemyBullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "458b7455-9a30-4276-bd77-ae3a66f7ed1d",
+            "Value": {
+                "id": "4167385e-d5a9-4e57-9457-866e82e2e76d",
+                "resourcePath": "sounds\\SNgameOver\\SNgameOver.yy",
+                "resourceType": "GMSound"
             }
         },
         {
