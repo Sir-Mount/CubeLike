@@ -1,8 +1,11 @@
 {
-    "id": "ebedf20a-7687-41af-b883-ad8135affcaa",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "TripleShoot",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "TripleShoot",
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "ShootingTypes",
+    "path": "folders/Scripts/ShootingTypes.yy",
+  },
 }

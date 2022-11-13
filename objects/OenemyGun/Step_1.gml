@@ -21,7 +21,11 @@ if(instance_exists(target)){
 			image_angle = direction;
 		}
 		
+<<<<<<< Updated upstream
 		AudioPlaySfx(SNshootEnemy, 60, 0.8, 0.3);
+=======
+		AudioPlaySfx(SNshootEnemy, 60, 0.7, 0.3);
+>>>>>>> Stashed changes
 	
 		with(instance_create_layer(x, y, "Shells", Oshell)){
 			sprite_index = SenemyShell;

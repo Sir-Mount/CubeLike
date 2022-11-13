@@ -1,4 +1,4 @@
-maxValue = 1;
+maxValue = 0.5;
 value = maxValue;
 
 selected = false;

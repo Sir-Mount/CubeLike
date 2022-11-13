@@ -13,6 +13,6 @@ if(!mouse_check_button(mb_left) && selected == true){
 }
 
 if(selected){
-	value = clamp((mouse_x - x)/sprite_width, 0, maxValue);
+	value = clamp((mouse_x - x)/(sprite_width*2), 0, maxValue);
 	event_user(0);
 }
