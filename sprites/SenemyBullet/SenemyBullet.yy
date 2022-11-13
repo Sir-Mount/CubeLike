@@ -1,92 +1,76 @@
 {
-    "id": "453147df-3ffc-49c7-b049-1fad640e2d70",
-    "modelName": "GMSprite",
-    "mvc": "1.12",
-    "name": "SenemyBullet",
-    "For3D": false,
-    "HTile": false,
-    "VTile": false,
-    "bbox_bottom": 11,
-    "bbox_left": 2,
-    "bbox_right": 13,
-    "bbox_top": 4,
-    "bboxmode": 2,
-    "colkind": 1,
-    "coltolerance": 0,
-    "edgeFiltering": false,
-    "frames": [
-        {
-            "id": "042972b7-6f71-40d2-9941-6a088ff17b9f",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "453147df-3ffc-49c7-b049-1fad640e2d70",
-            "compositeImage": {
-                "id": "b8defa36-2ac7-4715-b601-75a819310ebe",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "042972b7-6f71-40d2-9941-6a088ff17b9f",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "d9c48486-e3e5-464c-a297-9a1eb05ccc01",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "042972b7-6f71-40d2-9941-6a088ff17b9f",
-                    "LayerId": "fb523795-d172-4f73-b009-48b790c01dcb"
-                }
-            ]
-        },
-        {
-            "id": "16f99f3b-4708-46ee-8149-242a8cec5ec7",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "453147df-3ffc-49c7-b049-1fad640e2d70",
-            "compositeImage": {
-                "id": "0313cc79-5ba5-43f0-a81e-11c8cc62db30",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "16f99f3b-4708-46ee-8149-242a8cec5ec7",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "4f4351ed-7180-4860-8610-a29d2e7dde15",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "16f99f3b-4708-46ee-8149-242a8cec5ec7",
-                    "LayerId": "fb523795-d172-4f73-b009-48b790c01dcb"
-                }
-            ]
-        }
-    ],
-    "gridX": 8,
-    "gridY": 8,
-    "height": 16,
-    "layers": [
-        {
-            "id": "fb523795-d172-4f73-b009-48b790c01dcb",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "453147df-3ffc-49c7-b049-1fad640e2d70",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "default",
-            "opacity": 100,
-            "visible": true
-        }
-    ],
-    "origin": 4,
-    "originLocked": false,
-    "playbackSpeed": 30,
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "SenemyBullet",
+  "bboxMode": 2,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 2,
+  "bbox_right": 13,
+  "bbox_top": 4,
+  "bbox_bottom": 11,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "DynamicTexturePage": false,
+  "width": 16,
+  "height": 16,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 8,
+  "gridY": 8,
+  "frames": [
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"042972b7-6f71-40d2-9941-6a088ff17b9f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"16f99f3b-4708-46ee-8149-242a8cec5ec7",},
+  ],
+  "sequence": {
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "",
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 30.0,
     "playbackSpeedType": 0,
-    "premultiplyAlpha": false,
-    "sepmasks": false,
-    "swatchColours": null,
-    "swfPrecision": 2.525,
-    "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
-    "type": 0,
-    "width": 16,
-    "xorig": 8,
-    "yorig": 8
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 2.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"98e0f6f2-7968-46f6-8bce-d06e208303f7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"042972b7-6f71-40d2-9941-6a088ff17b9f","path":"sprites/SenemyBullet/SenemyBullet.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"97ae7f8f-47c5-4657-8c4d-031ae35cba1f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"16f99f3b-4708-46ee-8149-242a8cec5ec7","path":"sprites/SenemyBullet/SenemyBullet.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 8,
+    "yorigin": 8,
+    "eventToFunction": {},
+    "eventStubScript": null,
+  },
+  "layers": [
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fb523795-d172-4f73-b009-48b790c01dcb","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Enemies",
+    "path": "folders/Sprites/Enemies.yy",
+  },
 }

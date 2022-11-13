@@ -1,5 +1,0 @@
-++ lasersight
-++ triplebarrel-gun
-++ hold-to-shoot
-++ extra life
-

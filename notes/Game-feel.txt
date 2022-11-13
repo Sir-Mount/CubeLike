@@ -1,6 +1,0 @@
-++ permanence
-++ general knockback
-++ add rotation to screenshake
-++ triple barrel has less accuracy and fires slower
-++ LaserSight shoots faster
-
